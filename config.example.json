@@ -1,0 +1,30 @@
+{
+    "MAIN": {
+        "MC_USERNAME": "",
+        "MC_PASSWORD": "",
+        "MC_SERVER": "",
+        "MC_PORT": 25565,
+        "MC_ONLINE": true,
+        "DISCORD_APP_TOKEN": "",
+        "LOG_LEVEL": "INFO",
+        "MESSAGE_DELAY": 1.5,
+        "ADMINS": [
+            283983554051047425
+        ]
+    },
+    "AUTH_SERVER": {
+        "BIND_IP": "",
+        "PORT": 9822,
+        "DNS_WILDCARD": ""
+    },
+    "DATABASE": {
+        "CONNECTION_STRING": "sqlite:////data/db.sqlite"
+    },
+    "ELASTICSEARCH": {
+        "ENABLED": false,
+        "URL": "",
+        "AUTH": false,
+        "USERNAME": "",
+        "PASSWORD": ""
+    }
+}
